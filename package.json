@@ -1,0 +1,22 @@
+{
+  "name": "chainchatvv",
+  "version": "1.0.0",
+  "description": "ChainChat is an innovative project aimed at enhancing user interaction with web services using natural language. Our goal is to provide convenient, efficient, and personalized communication with machines through artificial intelligence technologies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VadSsS/ChainChat.githttps:.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "bugs": {
+    "url": "https://github.com/VadSsS/ChainChat.githttps:/issues"
+  },
+  "homepage": "https://github.com/VadSsS/ChainChat.githttps:#readme"
+}
